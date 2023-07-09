@@ -1,0 +1,21 @@
+.table-container table {
+  width: 100%;
+  text-align: left;
+  margin: 15px;
+  box-shadow: 0px 5px 10px gray;
+  padding: 25px;
+  width: 97.2%;
+}
+
+.table-container tr {
+  height: 30px;
+}
+
+.table-container td {
+  padding: 15px 10px;
+  border: 0;
+}
+
+.table-container tbody tr:nth-child(odd) {
+  background-color: #F9F9FB;
+}

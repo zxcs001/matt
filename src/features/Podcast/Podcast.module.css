@@ -1,0 +1,23 @@
+.podcast-container {
+  margin-top: 25px;
+  display: flex;
+  width: 100%;
+}
+
+.episodes-container {
+  display: flex;
+  margin: 15px;
+  box-shadow: 0px 5px 10px gray;
+  height: 50px;
+  padding-left: 10px;
+}
+
+.episodes-container p {
+  font-weight: bold;
+}
+
+.main-view-container {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+}

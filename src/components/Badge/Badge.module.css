@@ -1,0 +1,10 @@
+.badge-container {
+  font-size: 1em;
+  background-color: #7498d7;
+  color: white;
+  width: 32px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 5px;
+}
